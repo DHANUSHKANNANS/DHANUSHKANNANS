@@ -1,10 +1,25 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="300" valign="top">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHANUSHKANNANS/DHANUSHKANNANS/main/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHANUSHKANNANS/DHANUSHKANNANS/main/light_mode.svg">
-  <img alt="Dhanush Kannan S profile banner" src="https://raw.githubusercontent.com/DHANUSHKANNANS/DHANUSHKANNANS/main/dark_mode.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHANUSHKANNANS/DHANUSHKANNANS/main/profile_ascii_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHANUSHKANNANS/DHANUSHKANNANS/main/profile_ascii_light.png">
+  <img src="https://raw.githubusercontent.com/DHANUSHKANNANS/DHANUSHKANNANS/main/profile_ascii_dark.png" width="280" alt="ascii portrait">
 </picture>
+
+</td>
+<td valign="middle">
+
+### Hi, I'm Dhanush Kannan S 👋
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1400&color=58A6FF&width=440&lines=Robotics+%26+Automation+Engineering+Student;Building+a+humanoid+robot+sim+in+PyBullet;Training+walk+cycles+with+reinforcement+learning;ISRO+Hackathon+%E2%80%94+satellite+image+reconstruction" alt="Typing SVG" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -53,4 +68,4 @@
 
 </div>
 
-<!-- Banner + ASCII portrait generated for this profile. Stats widgets via GPRM (https://gprm.itsvg.in) -->
+<!-- ASCII portrait generated locally. Typing banner via readme-typing-svg (DenverCoder1). Stats widgets via GPRM (https://gprm.itsvg.in) -->
